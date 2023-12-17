@@ -1,0 +1,3 @@
+{'0': {'Nome': 'Maria', 'Sexo': 'F', 'Idade': '18'}, '1': {'Nome': 'Joao', 'Sexo': 'M', 'Idade': '9'}, '2': {'Nome': 'Roberto', 'Sexo': 'M', 'Idade': '9'}, '3': {'Nome': 'Any', 'Sexo': 'F', 'Idade': '10'}, '4': {'Nome': 'Odair', 'Sexo': 'M', 'Idade': '90'}, '5': {'Nome': 'Val', 'Sexo': 'F', 'Idade': '80'}, '6': {'Nome': 'Junior', 'Sexo': 'M', 'Idade': '25'}, '7': {'Nome': 'Alberta', 'Sexo': 'F', 'Idade': '18'}, '8': {'Nome': 'Natalio', 'Sexo': 'M', 'Idade': '40'}, '9': {'Nome': 'Juliana', 'Sexo': 'F', 'Idade': '28'}}
+Thiago de Sousa de Oliveira
+G7695H4

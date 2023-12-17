@@ -1,0 +1,4 @@
+Tomate foi removido, confira:
+['Arroz', 'Leite', 'Ovos', 'Feijao', 'Kimojo']
+Nome: Thiago de Sousa de Oliveira
+RA: G7695H4
