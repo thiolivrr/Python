@@ -1,0 +1,10 @@
+In Python, you can define variables to store data.
+In Python, you can use print() to display output on the console.
+In Python, you can use if statements for conditional execution.
+In Python, you can create functions to organize and reuse code.
+In Python, you can use lists to store and manipulate collections of data.
+In Python, you can use loops like for and while for repetitive tasks.
+In Python, you can handle exceptions using try and except blocks.
+In Python, you can import modules to extend the functionality of your programs.
+In Python, you can work with files using the open() function and file handling methods.
+In Python, you can leverage object-oriented programming concepts like classes and inheritance.
