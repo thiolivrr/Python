@@ -13,6 +13,7 @@ r = api_call()
 
 # Process overall results.
 response_dict = r.json()
+print(response_dict.keys())
 print(f"Complete results: {not response_dict['incomplete_results']}")
 
 # Process repository information.
@@ -31,7 +32,6 @@ for repo_dict in repo_dicts:
     description = repo_dict['description']
     hover_text = f"{owner}<br />{description}"
     hover_texts.append(hover_text)
-
 
 # Make visualization.
 title = "Most-Starred Java Projects on GitHub"
